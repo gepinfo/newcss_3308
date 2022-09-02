@@ -1,0 +1,7 @@
+{
+  "name": "newcss",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
